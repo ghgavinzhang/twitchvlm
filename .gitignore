@@ -1,0 +1,5 @@
+# generated pix2pix data
+instruct-pix2pix/data/*
+
+# frames data
+frames/
